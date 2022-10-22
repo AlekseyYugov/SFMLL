@@ -1,0 +1,14 @@
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\SFMLL.exe.config
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\SFMLL.exe
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\SFMLL.pdb
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\sfml-audio.dll
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\sfml-graphics.dll
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\sfml-learning.dll
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\sfml-system.dll
+D:\Project_C#\SFMLL\SFMLL\bin\Debug\sfml-window.dll
+D:\Project_C#\SFMLL\SFMLL\obj\Debug\SFMLL.csproj.AssemblyReference.cache
+D:\Project_C#\SFMLL\SFMLL\obj\Debug\SFMLL.csproj.SuggestedBindingRedirects.cache
+D:\Project_C#\SFMLL\SFMLL\obj\Debug\SFMLL.csproj.CoreCompileInputs.cache
+D:\Project_C#\SFMLL\SFMLL\obj\Debug\SFMLL.csproj.CopyComplete
+D:\Project_C#\SFMLL\SFMLL\obj\Debug\SFMLL.exe
+D:\Project_C#\SFMLL\SFMLL\obj\Debug\SFMLL.pdb
